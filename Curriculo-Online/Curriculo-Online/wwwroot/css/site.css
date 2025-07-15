@@ -90,3 +90,23 @@ hr {
     height: 2px;
     background: #808080;
 }
+
+/*Curriculo Beatiz*/
+.fotoBeatriz {
+    width: 200px;
+    height: auto;
+    border-radius: 9px;
+    float: right;
+    margin-left: 3px;
+}
+
+.cabecalho {
+    overflow: hidden;
+    max-width: 70%;
+}
+
+hr {
+    border: 0px;
+    height: 1.5px;
+    background: #258cfb
+}

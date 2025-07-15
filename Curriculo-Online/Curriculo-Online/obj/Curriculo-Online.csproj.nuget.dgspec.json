@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2023102020078\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj": {}
+    "C:\\Users\\thain\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2023102020078\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj": {
+    "C:\\Users\\thain\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2023102020078\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj",
+        "projectUniqueName": "C:\\Users\\thain\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj",
         "projectName": "Curriculo-Online",
-        "projectPath": "C:\\Users\\2023102020078\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj",
-        "packagesPath": "C:\\Users\\2023102020078\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2023102020078\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\obj\\",
+        "projectPath": "C:\\Users\\thain\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online.csproj",
+        "packagesPath": "C:\\Users\\thain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thain\\Documents\\GitHub\\Curriculo-Online\\Curriculo-Online\\Curriculo-Online\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\2023102020078\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -68,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
