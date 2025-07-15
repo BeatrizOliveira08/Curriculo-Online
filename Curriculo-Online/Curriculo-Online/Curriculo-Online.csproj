@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Curriculo_Online</RootNamespace>
+  </PropertyGroup>
+
+</Project>
+=======
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Curriculo_Online</RootNamespace>
+  </PropertyGroup>
+
+</Project>
+>>>>>>> 0e240ac76ec21dbccdcfae459f19141d423ecfa1
